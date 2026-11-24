@@ -9,6 +9,4 @@
 
 Building secure, scalable, automated and reliable Microsoft Azure platforms.
 
-[Portfolio](https://oowusu.com) · [LinkedIn](https://www.linkedin.com/in/obed-owusu15/) · [GitHub](https://github.com/obed015)
-
 </div>
