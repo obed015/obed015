@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**obed015/obed015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Obed Owusu 👨🏾‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Azure Cloud Platform Engineer
+
+**Azure Landing Zones | Infrastructure as Code | DevOps | Networking | Cloud Security & Integration**
+
+Building secure, scalable, automated and reliable Microsoft Azure platforms.
+
+[Portfolio](https://oowusu.com) · [LinkedIn](https://www.linkedin.com/in/obed-owusu15/) · [GitHub](https://github.com/obed015)
+
+</div>
