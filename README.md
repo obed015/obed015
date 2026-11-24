@@ -14,12 +14,10 @@ Building secure, scalable, automated and reliable Microsoft Azure platforms.
 ---
 ## About Me
 
-I'm a Cloud Platform Engineer specialising in Microsoft Azure, with around seven years of experience across technical support, IT infrastructure and cloud engineering.
+I'm a Cloud Platform Engineer working mainly with Microsoft Azure. I've spent around seven years in IT, starting in technical support and infrastructure before moving into cloud engineering.
 
-My engineering focus spans Azure Landing Zones, Infrastructure as Code, DevOps, cloud networking, identity, security, governance and enterprise integration.
+That background has helped me understand how systems work, particularly when it comes to networking, troubleshooting and finding the root cause of problems rather than just applying quick fixes.
 
-I work with Bicep in GitHub Enterprise repositories, deployed through Azure DevOps YAML pipelines, using reusable modules, automated validation, pull-request reviews and controlled deployments across Development and Production environments.
+These days, my work is focused on building and managing Azure environments, automating infrastructure deployments, securing cloud resources and making sure everything runs as it should.
 
-My technical expertise covers Azure management groups, subscription governance, Azure Policy, RBAC, Privileged Identity Management (PIM), managed identities, virtual networks, private endpoints, private DNS, Azure Front Door, Web Application Firewall and Key Vault.
-
-I also work with Azure API Management, Logic Apps, Service Bus, Azure Functions, Azure Monitor, Log Analytics and Application Insights, supporting secure cloud integration, automation, observability and reliable platform operations.
+I also work across DevOps, cloud integration, identity and governance, with a focus on making infrastructure easier to deploy, manage and troubleshoot.
