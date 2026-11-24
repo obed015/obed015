@@ -55,3 +55,22 @@ I also work across DevOps, cloud integration, identity and governance, with a fo
 ### Monitoring & Operations
 
 `Azure Monitor` · `Log Analytics` · `Application Insights` · `Microsoft Sentinel` · `Diagnostic Settings` · `Azure Workbooks` · `KQL` · `PowerShell` 
+
+---
+
+## Featured Projects
+
+### [SecureCloud Hub](https://github.com/obed015/SecureCloud-Hub)
+
+An Azure-native secure file-sharing platform built to demonstrate cloud security, identity management, event-driven processing, Infrastructure as Code and automated deployments using Microsoft Azure.
+
+- Microsoft Entra ID authentication with App Service Easy Auth to control access to file uploads and downloads.
+- Private Azure Blob Storage with short-lived SAS tokens for secure file uploads and downloads.
+- Event-driven file processing using Azure Event Grid and Python Azure Functions, with an EICAR-based malware detection demonstration.
+- Separate storage containers for incoming files, validated clean files and quarantined content.
+- Managed identities and Azure RBAC for secure access between Azure services.
+- Terraform infrastructure provisioning and GitHub Actions CI/CD using OIDC federation for passwordless Azure deployments.
+- Centralised monitoring and troubleshooting through Application Insights, Log Analytics and KQL.
+- Documented Azure architecture, deployment workflows, security controls and implementation evidence.
+
+**Stack:** Python · Azure Functions · Azure Blob Storage · Azure Event Grid · Microsoft Entra ID · Managed Identities · Azure RBAC · Terraform · GitHub Actions · OIDC · Application Insights · Log Analytics · KQL
