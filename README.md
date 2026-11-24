@@ -21,3 +21,37 @@ That background has helped me understand how systems work, particularly when it 
 These days, my work is focused on building and managing Azure environments, automating infrastructure deployments, securing cloud resources and making sure everything runs as it should.
 
 I also work across DevOps, cloud integration, identity and governance, with a focus on making infrastructure easier to deploy, manage and troubleshoot.
+
+
+---
+
+## Core Technologies
+
+### Azure Platform & Governance
+
+`Azure Landing Zones` · `Management Groups` · `Subscriptions` · `Azure Policy` · `Azure RBAC` · `PIM` · `Cost Management`
+
+
+### Infrastructure as Code & DevOps
+
+`Bicep` · `Azure Verified Modules` · `Terraform` · `GitHub Enterprise` · `Azure DevOps` · `YAML Pipelines` · `Managed DevOps Pools` · `GitHub Actions` · `Workload Identity Federation` · `CI/CD`
+
+
+### Networking & Security
+
+`Azure Virtual Networks` · `Subnets` · `NSGs` · `NAT Gateway` · `Private Endpoints` · `Private DNS` · `Azure Front Door` · `WAF` · `Azure Key Vault` · `Defender for Cloud`
+
+
+### Identity & Access Management
+
+`Microsoft Entra ID` · `Managed Identities` · `Conditional Access` · `App Registrations` · `Identity Governance`
+
+
+### Integration & Serverless
+
+`Azure API Management` · `Azure Logic Apps` · `Azure Service Bus` · `Azure Functions` · `Azure Event Grid`
+
+
+### Monitoring & Operations
+
+`Azure Monitor` · `Log Analytics` · `Application Insights` · `Microsoft Sentinel` · `Diagnostic Settings` · `Azure Workbooks` · `KQL` · `PowerShell` 
